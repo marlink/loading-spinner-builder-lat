@@ -1,0 +1,5 @@
+{
+  "name": "Loading spinner builder",
+  "description": "A modern, lightweight, and interactive tool to design and build custom animated SVG spinners and loaders. Customize shapes, colors, counts, and animations, then export your creation as an SVG or animated GIF.",
+  "requestFramePermissions": []
+}
